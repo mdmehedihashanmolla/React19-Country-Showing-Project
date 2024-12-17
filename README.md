@@ -58,7 +58,6 @@ Ensure you have the following installed:
 1. **Clone the repository**:
    ```bash
    git remote add origin git@github.com:mdmehedihashanmolla/React19-Country-Showing-Project.git
-   cd country-details-app
    npm install
    npm run dev
    API Used
