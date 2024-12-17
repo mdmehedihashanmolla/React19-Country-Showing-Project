@@ -1,0 +1,18 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Kolkata"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "9749330109"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "mdmehedihashanmolla@gmail.com"
+
+    }
+  ]
